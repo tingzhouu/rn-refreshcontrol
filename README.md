@@ -1,6 +1,7 @@
 # RN-RefreshControl
 
 A quick trial of how to use [RefreshControl](https://facebook.github.io/react-native/docs/refreshcontrol) on a React Native app.
+Also tried out doing this using React Hooks.
 
 ### Functionality
 
